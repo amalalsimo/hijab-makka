@@ -1,3 +1,0 @@
-YouCan CDN dependencies remaining: NONE
-Current production webhooks preserved.
-No private API keys or access tokens are included in this package.
