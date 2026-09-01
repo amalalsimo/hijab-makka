@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "2106",
+    "ar": "الدار البيضاء",
+    "original": "Casablanca"
+  },
+  {
+    "id": "2203",
+    "ar": "الرباط",
+    "original": "Rabat"
+  },
+  {
+    "id": "2269",
+    "ar": "فاس",
+    "original": "Fes"
+  },
+  {
+    "id": "1872",
+    "ar": "مراكش",
+    "original": "Marrakech"
+  },
+  {
+    "id": "1980",
+    "ar": "أكادير",
+    "original": "Agadir"
+  },
+  {
+    "id": "2671",
+    "ar": "طنجة",
+    "original": "Tanger"
+  },
+  {
+    "id": "2359",
+    "ar": "مكناس",
+    "original": "Meknes"
+  },
+  {
+    "id": "2935",
+    "ar": "وجدة",
+    "original": "Oujda"
+  },
+  {
+    "id": "2215",
+    "ar": "سلا",
+    "original": "Sale"
+  },
+  {
+    "id": "2677",
+    "ar": "تطوان",
+    "original": "Tetouan"
+  },
+  {
+    "id": "2587",
+    "ar": "الجديدة",
+    "original": "El Jadida"
+  },
+  {
+    "id": "3649",
+    "ar": "آسفي",
+    "original": "Safi"
+  },
+  {
+    "id": "2233",
+    "ar": "القنيطرة",
+    "original": "Kenitra"
+  },
+  {
+    "id": "4245",
+    "ar": "آسا الزاك",
+    "original": "ASSA ZAG"
+  },
+  {
+    "id": "1878",
+    "ar": "آيت أورير",
+    "original": "Ait Ourir"
+  },
+  {
+    "id": "3223",
+    "ar": "آيت اتتاب",
+    "original": "Ait Attab"
+  },
+  {
+    "id": "2028",
+    "ar": "آيت اميرا",
+    "original": "Ait Amira"
+  },
+  {
+    "id": "2082",
+    "ar": "آيت ايازا",
+    "original": "Ait Aiaaza"
+  },
+  {
+    "id": "4536",
+    "ar": "آيت باها",
+    "original": "Ait baha"
+  },
+  {
+    "id": "3967",
+    "ar": "آيت بن هدو",
+    "original": "Ait Ben Hdou"
+  },
+  {
+    "id": "4302",
+    "ar": "آيت تيسليت",
+    "original": "Ait tislit"
+  },
+  {
+    "id": "1986",
+    "ar": "آيت ملول",
+    "original": "Ait Melloul"
+  },
+  {
+    "id": "4506",
+    "ar": "آيت مهاميد",
+    "original": "ait mhamed"
+  },
+  {
+    "id": "3349",
+    "ar": "آيت يشاق",
+    "original": "Ait Ishaq"
+  },
+  {
+    "id": "3163",
+    "ar": "أبي الجعد",
+    "original": "Boujaad"
+  },
+  {
+    "id": "2953",
+    "ar": "أحفير",
+    "original": "Ahfir"
+  },
+  {
+    "id": "4338",
+    "ar": "أربعاء لاوناتي",
+    "original": "Arbaa Laaounate"
+  },
+  {
+    "id": "3169",
+    "ar": "أرفود",
+    "original": "Erfoud"
+  },
+  {
+    "id": "3817",
+    "ar": "أزرو",
+    "original": "Azrou"
+  },
+  {
+    "id": "2917",
+    "ar": "أزغنغان",
+    "original": "Zeghanghane"
+  },
+  {
+    "id": "2629",
+    "ar": "أزمور",
+    "original": "Azemmour"
+  },
+  {
+    "id": "3175",
+    "ar": "أزيلال",
+    "original": "Azilal"
+  },
+  {
+    "id": "1962",
+    "ar": "أسني",
+    "original": "Asni"
+  },
+  {
+    "id": "2707",
+    "ar": "أصيلة",
+    "original": "Assilah"
+  },
+  {
+    "id": "2569",
+    "ar": "أكفاي",
+    "original": "Agafay"
+  },
+  {
+    "id": "2575",
+    "ar": "أمزميز",
+    "original": "Amizmiz"
+  },
+  {
+    "id": "1998",
+    "ar": "أنزا",
+    "original": "Anza"
+  },
+  {
+    "id": "2046",
+    "ar": "أورير",
+    "original": "Aourir"
+  },
+  {
+    "id": "1926",
+    "ar": "أوريكا",
+    "original": "Ourika"
+  },
+  {
+    "id": "3307",
+    "ar": "أوزود",
+    "original": "Ouzoud"
+  },
+  {
+    "id": "3325",
+    "ar": "أولاد ابديللاه",
+    "original": "Ouled Abdellah"
+  },
+  {
+    "id": "3199",
+    "ar": "أولاد الي",
+    "original": "Ouled Ali"
+  },
+  {
+    "id": "2659",
+    "ar": "أولاد امراني",
+    "original": "Ouled Amrane"
+  },
+  {
+    "id": "2094",
+    "ar": "أولاد برحيل",
+    "original": "Oulad Barrehil"
+  },
+  {
+    "id": "2275",
+    "ar": "أولاد تايب",
+    "original": "Ouled Tayeb"
+  },
+  {
+    "id": "2064",
+    "ar": "أولاد تايمة",
+    "original": "Oulad Teima"
+  },
+  {
+    "id": "3013",
+    "ar": "أولاد جرار",
+    "original": "Oulad Jerrar"
+  },
+  {
+    "id": "2557",
+    "ar": "أولاد حسون",
+    "original": "Ouled Hassoun"
+  },
+  {
+    "id": "3193",
+    "ar": "أولاد زمام",
+    "original": "Oulad Zmam"
+  },
+  {
+    "id": "3319",
+    "ar": "أولاد سايد ال ويد",
+    "original": "Ouled Said El Oued"
+  },
+  {
+    "id": "3205",
+    "ar": "أولاد عياد",
+    "original": "Ouled Ayad"
+  },
+  {
+    "id": "3986",
+    "ar": "أولاد فرج",
+    "original": "Ouled Fraj"
+  },
+  {
+    "id": "3331",
+    "ar": "أولاد مباريك",
+    "original": "Ouled Mbarek"
+  },
+  {
+    "id": "3337",
+    "ar": "أولاد مراه",
+    "original": "Ouled Mrah"
+  },
+  {
+    "id": "4308",
+    "ar": "أولاد موسسا",
+    "original": "Ouled moussa"
+  },
+  {
+    "id": "3217",
+    "ar": "أولاد يشي",
+    "original": "Ouled Iyiche"
+  },
+  {
+    "id": "1938",
+    "ar": "أولاد يهيا",
+    "original": "Ouled Yhya"
+  },
+  {
+    "id": "3343",
+    "ar": "أولاد يوسسيف",
+    "original": "Oulad Youssef"
+  },
+  {
+    "id": "3211",
+    "ar": "أولاد گناو",
+    "original": "Ouled Gnaou"
+  },
+  {
+    "id": "2100",
+    "ar": "أولوز",
+    "original": "Aoulouz"
+  },
+  {
+    "id": "3763",
+    "ar": "أوناغة",
+    "original": "Ounara"
+  },
+  {
+    "id": "2353",
+    "ar": "إفران",
+    "original": "Ifrane"
+  },
+  {
+    "id": "2863",
+    "ar": "إمزورن",
+    "original": "Imzouren"
+  },
+  {
+    "id": "2509",
+    "ar": "إمنتانوت",
+    "original": "Imintanoute"
+  },
+  {
+    "id": "1992",
+    "ar": "إنزكان",
+    "original": "Inezgane"
+  },
+  {
+    "id": "2341",
+    "ar": "إيموزار كندر",
+    "original": "Imouzzer (kender)"
+  },
+  {
+    "id": "2653",
+    "ar": "اثنين شتوكا",
+    "original": "Tnine Chtouka"
+  },
+  {
+    "id": "2647",
+    "ar": "اثنين لغاربيا",
+    "original": "Tnine Lgharbia"
+  },
+  {
+    "id": "2857",
+    "ar": "اجدير",
+    "original": "Ajdir"
+  },
+  {
+    "id": "3229",
+    "ar": "ادوز",
+    "original": "Adouz"
+  },
+  {
+    "id": "2743",
+    "ar": "ارباوا",
+    "original": "Arbaoua"
+  },
+  {
+    "id": "2052",
+    "ar": "ازرو(اگادير)",
+    "original": "Azrou (agadir)"
+  },
+  {
+    "id": "2839",
+    "ar": "ازلا",
+    "original": "Azla"
+  },
+  {
+    "id": "3811",
+    "ar": "اشتوكة آيت باها",
+    "original": "Chtouka Ait Baha"
+  },
+  {
+    "id": "4350",
+    "ar": "اغبالا",
+    "original": "Aghbala"
+  },
+  {
+    "id": "3181",
+    "ar": "اغبالو",
+    "original": "Aghbalou"
+  },
+  {
+    "id": "1950",
+    "ar": "اغمات",
+    "original": "Aghmat"
+  },
+  {
+    "id": "3241",
+    "ar": "افورار",
+    "original": "Afourar"
+  },
+  {
+    "id": "2959",
+    "ar": "اكليم",
+    "original": "Aklim"
+  },
+  {
+    "id": "3247",
+    "ar": "ال بيرراديا",
+    "original": "El Berradia"
+  },
+  {
+    "id": "3283",
+    "ar": "ال كيباب",
+    "original": "El Kebab"
+  },
+  {
+    "id": "3025",
+    "ar": "ال مادير",
+    "original": "El Maader"
+  },
+  {
+    "id": "4440",
+    "ar": "ال منار",
+    "original": "El mnar"
+  },
+  {
+    "id": "2329",
+    "ar": "ال مينزيل",
+    "original": "El Menzel"
+  },
+  {
+    "id": "2371",
+    "ar": "ال هاج كاددور",
+    "original": "El Haj Kaddour"
+  },
+  {
+    "id": "3769",
+    "ar": "ال هينشاني",
+    "original": "El Henchane"
+  },
+  {
+    "id": "2545",
+    "ar": "ال ويداني",
+    "original": "El Ouidane"
+  },
+  {
+    "id": "4251",
+    "ar": "ال گارا بيررشيد",
+    "original": "el gara berrchid"
+  },
+  {
+    "id": "2641",
+    "ar": "البئر الجديد",
+    "original": "Bir Jdid"
+  },
+  {
+    "id": "2815",
+    "ar": "الجبهة",
+    "original": "Jebha"
+  },
+  {
+    "id": "2605",
+    "ar": "الجرف الأصفر",
+    "original": "Jorf Lasfar"
+  },
+  {
+    "id": "2407",
+    "ar": "الحاجب",
+    "original": "El Hajeb"
+  },
+  {
+    "id": "2851",
+    "ar": "الحسيمة",
+    "original": "Al hoceima"
+  },
+  {
+    "id": "3901",
+    "ar": "الخميسات",
+    "original": "Khemissat"
+  },
+  {
+    "id": "3097",
+    "ar": "الداخلة",
+    "original": "Dakhla"
+  },
+  {
+    "id": "3805",
+    "ar": "الدروة",
+    "original": "DAROUA"
+  },
+  {
+    "id": "2911",
+    "ar": "الدريوش",
+    "original": "Driouch"
+  },
+  {
+    "id": "3265",
+    "ar": "الرشيدية",
+    "original": "Errachidia"
+  },
+  {
+    "id": "3925",
+    "ar": "الرماني",
+    "original": "Roumani"
+  },
+  {
+    "id": "3511",
+    "ar": "الريش",
+    "original": "Rich"
+  },
+  {
+    "id": "3517",
+    "ar": "الريصاني",
+    "original": "Rissani"
+  },
+  {
+    "id": "2947",
+    "ar": "السعيدية",
+    "original": "Saidia"
+  },
+  {
+    "id": "3109",
+    "ar": "السمارة",
+    "original": "Smara"
+  },
+  {
+    "id": "2503",
+    "ar": "الشماعية",
+    "original": "Echemmaia"
+  },
+  {
+    "id": "2245",
+    "ar": "الصخيرات",
+    "original": "Skhirat"
+  },
+  {
+    "id": "3745",
+    "ar": "الصويرة",
+    "original": "Essaouira"
+  },
+  {
+    "id": "2725",
+    "ar": "العرائش",
+    "original": "Larache"
+  },
+  {
+    "id": "2923",
+    "ar": "العروي",
+    "original": "Al aaroui"
+  },
+  {
+    "id": "2467",
+    "ar": "العطاوية",
+    "original": "El Attaouia"
+  },
+  {
+    "id": "3115",
+    "ar": "العيون",
+    "original": "Laayoune"
+  },
+  {
+    "id": "2971",
+    "ar": "العيون الشرقية",
+    "original": "El aioune charkia"
+  },
+  {
+    "id": "3121",
+    "ar": "العيون المرسى",
+    "original": "Laayoune El Marsa"
+  },
+  {
+    "id": "3277",
+    "ar": "الفقيه بن صالح",
+    "original": "Fquih Ben Salah"
+  },
+  {
+    "id": "2695",
+    "ar": "الفنيدق",
+    "original": "Fnidek"
+  },
+  {
+    "id": "2701",
+    "ar": "القصر الصغير",
+    "original": "Ksar Sghir"
+  },
+  {
+    "id": "2731",
+    "ar": "القصر الكبير",
+    "original": "Ksar el kebir"
+  },
+  {
+    "id": "3289",
+    "ar": "القصيبة",
+    "original": "El Ksiba"
+  },
+  {
+    "id": "2004",
+    "ar": "القليعة",
+    "original": "Leqliaa"
+  },
+  {
+    "id": "2154",
+    "ar": "المحمدية",
+    "original": "Mouhammedia"
+  },
+  {
+    "id": "2689",
+    "ar": "المضيق",
+    "original": "Mdiq"
+  },
+  {
+    "id": "3998",
+    "ar": "المنصورية",
+    "original": "El Mansouria"
+  },
+  {
+    "id": "2887",
+    "ar": "الناظور",
+    "original": "Nador"
+  },
+  {
+    "id": "2124",
+    "ar": "النواصر",
+    "original": "Nouaceur"
+  },
+  {
+    "id": "3799",
+    "ar": "الهرهورة",
+    "original": "Harhoura"
+  },
+  {
+    "id": "3847",
+    "ar": "الوليدية",
+    "original": "Oualidia"
+  },
+  {
+    "id": "2497",
+    "ar": "اليوسفية",
+    "original": "El Youssoufia"
+  },
+  {
+    "id": "2845",
+    "ar": "امسا",
+    "original": "Amsa"
+  },
+  {
+    "id": "4560",
+    "ar": "امسسا شامال",
+    "original": "Amssa chamal"
+  },
+  {
+    "id": "3187",
+    "ar": "اوفوس",
+    "original": "Aoufous"
+  },
+  {
+    "id": "3715",
+    "ar": "اگدز",
+    "original": "Agdz"
+  },
+  {
+    "id": "3091",
+    "ar": "اگلو",
+    "original": "Aglou"
+  },
+  {
+    "id": "2377",
+    "ar": "اگوراي",
+    "original": "Agourai"
+  },
+  {
+    "id": "3961",
+    "ar": "اگويم",
+    "original": "Agouim"
+  },
+  {
+    "id": "3157",
+    "ar": "اگيلموسس",
+    "original": "Aguelmouss"
+  },
+  {
+    "id": "2803",
+    "ar": "باب برد",
+    "original": "Bab berred"
+  },
+  {
+    "id": "2797",
+    "ar": "باب تازة",
+    "original": "Bab taza"
+  },
+  {
+    "id": "2130",
+    "ar": "برشيد",
+    "original": "Berrchid"
+  },
+  {
+    "id": "2941",
+    "ar": "بركان",
+    "original": "Berkane"
+  },
+  {
+    "id": "2767",
+    "ar": "بريكشا",
+    "original": "Brikcha"
+  },
+  {
+    "id": "3259",
+    "ar": "بزازا",
+    "original": "Bzaza"
+  },
+  {
+    "id": "4530",
+    "ar": "بلفاع",
+    "original": "Belfaa"
+  },
+  {
+    "id": "2719",
+    "ar": "بليونش",
+    "original": "Belyounech"
+  },
+  {
+    "id": "2479",
+    "ar": "بن جرير",
+    "original": "Ben Guerir"
+  },
+  {
+    "id": "2142",
+    "ar": "بنسليمان",
+    "original": "Bensliman"
+  },
+  {
+    "id": "4416",
+    "ar": "بني أحمد",
+    "original": "Beni Ahmed"
+  },
+  {
+    "id": "2899",
+    "ar": "بني أنصار",
+    "original": "Bni ansar"
+  },
+  {
+    "id": "3841",
+    "ar": "بني اهميد سيتتات",
+    "original": "Beni Ahmed settat"
+  },
+  {
+    "id": "2869",
+    "ar": "بني بوعياش",
+    "original": "bni Bouayach"
+  },
+  {
+    "id": "4344",
+    "ar": "بني درار",
+    "original": "Beni Drar"
+  },
+  {
+    "id": "3367",
+    "ar": "بني عياط",
+    "original": "Beni Ayat"
+  },
+  {
+    "id": "3373",
+    "ar": "بني ملال",
+    "original": "Beni Mellal"
+  },
+  {
+    "id": "4524",
+    "ar": "بني هاسسان",
+    "original": "Bni Hassan"
+  },
+  {
+    "id": "2323",
+    "ar": "بهاليل",
+    "original": "Bhalil"
+  },
+  {
+    "id": "3007",
+    "ar": "بوتيني",
+    "original": "Boutini"
+  },
+  {
+    "id": "3103",
+    "ar": "بوجدور",
+    "original": "Boujdour"
+  },
+  {
+    "id": "3379",
+    "ar": "بوجنيبا",
+    "original": "Boujniba"
+  },
+  {
+    "id": "3385",
+    "ar": "بودنيب",
+    "original": "Boudnib"
+  },
+  {
+    "id": "4022",
+    "ar": "بوديربالا",
+    "original": "Bouderbala"
+  },
+  {
+    "id": "2148",
+    "ar": "بوزنيقة",
+    "original": "Bouznika"
+  },
+  {
+    "id": "4422",
+    "ar": "بوسبير",
+    "original": "Bousber"
+  },
+  {
+    "id": "2160",
+    "ar": "بوسكورة",
+    "original": "Bouskoura"
+  },
+  {
+    "id": "2983",
+    "ar": "بوعرفة",
+    "original": "Bouarfa"
+  },
+  {
+    "id": "2365",
+    "ar": "بوفكران",
+    "original": "Boufakrane"
+  },
+  {
+    "id": "4482",
+    "ar": "بوقوررا",
+    "original": "bouqorra"
+  },
+  {
+    "id": "3397",
+    "ar": "بولانواري",
+    "original": "Boulanouare"
+  },
+  {
+    "id": "3391",
+    "ar": "بولمان",
+    "original": "Boulemane"
+  },
+  {
+    "id": "3709",
+    "ar": "بومالن دادس",
+    "original": "Boumalne Dades"
+  },
+  {
+    "id": "4362",
+    "ar": "بوموسسا",
+    "original": "Boumoussa"
+  },
+  {
+    "id": "3403",
+    "ar": "بوميا",
+    "original": "Boumia"
+  },
+  {
+    "id": "4404",
+    "ar": "بوهميد",
+    "original": "Bouhmed"
+  },
+  {
+    "id": "3145",
+    "ar": "بويزكارن كلميم",
+    "original": "Bouizakarne Guelmim"
+  },
+  {
+    "id": "3361",
+    "ar": "بير ميزوي",
+    "original": "Bir Mezoui"
+  },
+  {
+    "id": "3787",
+    "ar": "بيلاگيد",
+    "original": "Belaaguid"
+  },
+  {
+    "id": "3409",
+    "ar": "بين الويدان",
+    "original": "Bin El Ouidane"
+  },
+  {
+    "id": "2016",
+    "ar": "بيوكرى",
+    "original": "Biougra"
+  },
+  {
+    "id": "2995",
+    "ar": "تادوارت",
+    "original": "Tadouart"
+  },
+  {
+    "id": "2875",
+    "ar": "تارجيست",
+    "original": "Targuist"
+  },
+  {
+    "id": "2076",
+    "ar": "تارودانت",
+    "original": "Taroudant"
+  },
+  {
+    "id": "3949",
+    "ar": "تازارين",
+    "original": "Tazarine"
+  },
+  {
+    "id": "2413",
+    "ar": "تازة",
+    "original": "Taza"
+  },
+  {
+    "id": "3721",
+    "ar": "تازناخت",
+    "original": "Tazenakht"
+  },
+  {
+    "id": "2533",
+    "ar": "تاسساوت",
+    "original": "Tassaout"
+  },
+  {
+    "id": "3415",
+    "ar": "تاشرافات",
+    "original": "Tachrafat"
+  },
+  {
+    "id": "3973",
+    "ar": "تافتاشت",
+    "original": "Taftacht"
+  },
+  {
+    "id": "3085",
+    "ar": "تافراوت",
+    "original": "Tafraoute"
+  },
+  {
+    "id": "4028",
+    "ar": "تالسسينتي",
+    "original": "Talssinte"
+  },
+  {
+    "id": "2088",
+    "ar": "تالوين",
+    "original": "Taliouine"
+  },
+  {
+    "id": "3001",
+    "ar": "تامدغوست",
+    "original": "Tamdghoust"
+  },
+  {
+    "id": "1896",
+    "ar": "تامسلوهت",
+    "original": "Tamslouht"
+  },
+  {
+    "id": "2251",
+    "ar": "تامسنا",
+    "original": "Tamesna"
+  },
+  {
+    "id": "3439",
+    "ar": "تاملالتي",
+    "original": "Tamlalte"
+  },
+  {
+    "id": "1890",
+    "ar": "تامنصورت",
+    "original": "Tamnsourt"
+  },
+  {
+    "id": "2473",
+    "ar": "تاميليلت",
+    "original": "Tamelelt"
+  },
+  {
+    "id": "3445",
+    "ar": "تانانت(بني-ميللال)",
+    "original": "Tanant (beni-mellal)"
+  },
+  {
+    "id": "3133",
+    "ar": "تانتان ال واتيا",
+    "original": "Tantan El Ouatia"
+  },
+  {
+    "id": "3427",
+    "ar": "تانوغا",
+    "original": "Tanougha"
+  },
+  {
+    "id": "2425",
+    "ar": "تاهلة",
+    "original": "Tahla"
+  },
+  {
+    "id": "2437",
+    "ar": "تاوجداتي",
+    "original": "Taoujdate"
+  },
+  {
+    "id": "3853",
+    "ar": "تاوريرت",
+    "original": "taourirt"
+  },
+  {
+    "id": "2431",
+    "ar": "تاونات",
+    "original": "Taounate"
+  },
+  {
+    "id": "3421",
+    "ar": "تاگزيرت",
+    "original": "Tagzert"
+  },
+  {
+    "id": "1884",
+    "ar": "تحناوت",
+    "original": "Tahnaout"
+  },
+  {
+    "id": "2989",
+    "ar": "تزنيت",
+    "original": "Tiznit"
+  },
+  {
+    "id": "2010",
+    "ar": "تغازوت",
+    "original": "Taghazout"
+  },
+  {
+    "id": "2209",
+    "ar": "تمارة",
+    "original": "Temara"
+  },
+  {
+    "id": "2112",
+    "ar": "تماريس",
+    "original": "Tamaris"
+  },
+  {
+    "id": "3463",
+    "ar": "تنغير",
+    "original": "Tinghir"
+  },
+  {
+    "id": "3733",
+    "ar": "توندوتي",
+    "original": "Toundoute"
+  },
+  {
+    "id": "4470",
+    "ar": "تيروال",
+    "original": "Teroual"
+  },
+  {
+    "id": "4356",
+    "ar": "تيزي نتيسسليت",
+    "original": "Tizi ntisslit"
+  },
+  {
+    "id": "4518",
+    "ar": "تيزي نيسلي",
+    "original": "Tizi nisly"
+  },
+  {
+    "id": "4374",
+    "ar": "تيسة",
+    "original": "TISSA"
+  },
+  {
+    "id": "2184",
+    "ar": "تيط مليل",
+    "original": "Tit Mellil"
+  },
+  {
+    "id": "3433",
+    "ar": "تيغسساليني",
+    "original": "Tighssaline"
+  },
+  {
+    "id": "3061",
+    "ar": "تيغيرت",
+    "original": "Tighirt"
+  },
+  {
+    "id": "3907",
+    "ar": "تيفلت",
+    "original": "Tifelt"
+  },
+  {
+    "id": "4326",
+    "ar": "تيكيوين",
+    "original": "Tikiouin"
+  },
+  {
+    "id": "4512",
+    "ar": "تيمانار",
+    "original": "Temanar"
+  },
+  {
+    "id": "2034",
+    "ar": "تيمسيا",
+    "original": "Temsia"
+  },
+  {
+    "id": "3451",
+    "ar": "تيموليلتي",
+    "original": "Timoulilte"
+  },
+  {
+    "id": "4542",
+    "ar": "تين مينسور",
+    "original": "Tin Mensour"
+  },
+  {
+    "id": "2977",
+    "ar": "تيندرارا",
+    "original": "Tendrara"
+  },
+  {
+    "id": "3943",
+    "ar": "تينزوليني",
+    "original": "Tinzouline"
+  },
+  {
+    "id": "3457",
+    "ar": "تينيجداد",
+    "original": "Tinejdad"
+  },
+  {
+    "id": "4314",
+    "ar": "ثلاثاء لولاد فيني",
+    "original": "Tlat loulad fini"
+  },
+  {
+    "id": "2965",
+    "ar": "جرادة",
+    "original": "Jerada"
+  },
+  {
+    "id": "3829",
+    "ar": "جرسيف",
+    "original": "Guercif"
+  },
+  {
+    "id": "2785",
+    "ar": "جرف الملحة",
+    "original": "Jorf El Melha"
+  },
+  {
+    "id": "3655",
+    "ar": "جمعة شايم",
+    "original": "Jemaa Shaim"
+  },
+  {
+    "id": "3475",
+    "ar": "حد بوهسسوسسين",
+    "original": "Had Bouhssoussen"
+  },
+  {
+    "id": "3775",
+    "ar": "حد درا",
+    "original": "Had Draa"
+  },
+  {
+    "id": "2118",
+    "ar": "حد سولمي",
+    "original": "Had Swlme"
+  },
+  {
+    "id": "4380",
+    "ar": "حد كورت",
+    "original": "Had Kourt"
+  },
+  {
+    "id": "3667",
+    "ar": "حد هرارا",
+    "original": "Had Hrara"
+  },
+  {
+    "id": "3487",
+    "ar": "خريبكة",
+    "original": "Khouribga"
+  },
+  {
+    "id": "2737",
+    "ar": "خميس الساحل",
+    "original": "Khemis Sahel"
+  },
+  {
+    "id": "4410",
+    "ar": "خميس مديق",
+    "original": "Khmis Mdiq"
+  },
+  {
+    "id": "2635",
+    "ar": "خميسس زمامرا",
+    "original": "Khmiss Zmamra"
+  },
+  {
+    "id": "3493",
+    "ar": "خنيفرة",
+    "original": "Khenifra"
+  },
+  {
+    "id": "4034",
+    "ar": "خينيشاتي",
+    "original": "Khenichate"
+  },
+  {
+    "id": "2196",
+    "ar": "دار بوعزة",
+    "original": "Dar Bouazza"
+  },
+  {
+    "id": "3673",
+    "ar": "دار سي ايسسا",
+    "original": "Dar Si Aissa"
+  },
+  {
+    "id": "3499",
+    "ar": "دار ولد زيدوه",
+    "original": "Dar Ould Zidouh"
+  },
+  {
+    "id": "2713",
+    "ar": "داليا",
+    "original": "Dalia"
+  },
+  {
+    "id": "2491",
+    "ar": "دمنات",
+    "original": "Demnate"
+  },
+  {
+    "id": "3505",
+    "ar": "دمنات",
+    "original": "Demnate"
+  },
+  {
+    "id": "1944",
+    "ar": "دوار زيمراني",
+    "original": "Douar Zemrane"
+  },
+  {
+    "id": "4428",
+    "ar": "ديردارا",
+    "original": "Derdara"
+  },
+  {
+    "id": "2305",
+    "ar": "رأس ال ما(فيس)",
+    "original": "Ras El Ma (fes)"
+  },
+  {
+    "id": "4016",
+    "ar": "رأس ال ما(وجدا)",
+    "original": "Ras el ma (oujda)"
+  },
+  {
+    "id": "3037",
+    "ar": "راسموكا",
+    "original": "Rasmouka"
+  },
+  {
+    "id": "3937",
+    "ar": "رياد يسسالام",
+    "original": "Riad Essalam"
+  },
+  {
+    "id": "2335",
+    "ar": "ريباتي ال خير",
+    "original": "Ribate El Kheir"
+  },
+  {
+    "id": "3697",
+    "ar": "زاكورة",
+    "original": "Zagora"
+  },
+  {
+    "id": "4500",
+    "ar": "زاودا",
+    "original": "Zaouda"
+  },
+  {
+    "id": "3823",
+    "ar": "زاويات سيدي سمايل",
+    "original": "Zaouiat Sidi Smail"
+  },
+  {
+    "id": "3523",
+    "ar": "زاوية الشيخ",
+    "original": "Zaouiat Cheikh"
+  },
+  {
+    "id": "3529",
+    "ar": "زايدة",
+    "original": "Zaida"
+  },
+  {
+    "id": "2893",
+    "ar": "زايو",
+    "original": "Zaio"
+  },
+  {
+    "id": "2761",
+    "ar": "زومي",
+    "original": "Zoumi"
+  },
+  {
+    "id": "2401",
+    "ar": "سابا ايون",
+    "original": "Sabaa Aiyoun"
+  },
+  {
+    "id": "2070",
+    "ar": "سبت ال گيرداني",
+    "original": "Sebt El Guerdane"
+  },
+  {
+    "id": "2551",
+    "ar": "سبت بن ساسسي",
+    "original": "Sebt Ben Sassi"
+  },
+  {
+    "id": "3661",
+    "ar": "سبت گزولا",
+    "original": "Sebt Gzoula"
+  },
+  {
+    "id": "1956",
+    "ar": "ستي فاطمة",
+    "original": "Setti-Fatma"
+  },
+  {
+    "id": "2827",
+    "ar": "ستيهات",
+    "original": "Stehat"
+  },
+  {
+    "id": "2527",
+    "ar": "سخور ريهامنا",
+    "original": "Skhour Rehamna"
+  },
+  {
+    "id": "2136",
+    "ar": "سطات",
+    "original": "Settat"
+  },
+  {
+    "id": "3703",
+    "ar": "سكورا",
+    "original": "Skoura"
+  },
+  {
+    "id": "2221",
+    "ar": "سلا الجديدة",
+    "original": "Sala Al Jadida"
+  },
+  {
+    "id": "2929",
+    "ar": "سلوان",
+    "original": "Selouane"
+  },
+  {
+    "id": "3781",
+    "ar": "سميمو",
+    "original": "Smimou"
+  },
+  {
+    "id": "3865",
+    "ar": "سوق الأربعاء الغرب",
+    "original": "Souk Larbaa ghareb"
+  },
+  {
+    "id": "3535",
+    "ar": "سوق سبت أولاد نيمما",
+    "original": "Souk Sebt Oulad Nemma"
+  },
+  {
+    "id": "1914",
+    "ar": "سويهلا",
+    "original": "Souihla"
+  },
+  {
+    "id": "2515",
+    "ar": "سيد لموختار",
+    "original": "Sid Lmokhtar"
+  },
+  {
+    "id": "3079",
+    "ar": "سيدي إفني",
+    "original": "Sidi Ifni"
+  },
+  {
+    "id": "4040",
+    "ar": "سيدي ابد",
+    "original": "sidi abd"
+  },
+  {
+    "id": "3793",
+    "ar": "سيدي ابديللاه غيات",
+    "original": "Sidi Abdellah Ghiat"
+  },
+  {
+    "id": "4232",
+    "ar": "سيدي الال تازي",
+    "original": "Sidi Alal Tazi"
+  },
+  {
+    "id": "2623",
+    "ar": "سيدي الي",
+    "original": "Sidi Ali"
+  },
+  {
+    "id": "3547",
+    "ar": "سيدي ايسسا بن الي",
+    "original": "Sidi Aissa Ben Ali"
+  },
+  {
+    "id": "2665",
+    "ar": "سيدي بنور",
+    "original": "Sidi Bennour"
+  },
+  {
+    "id": "2455",
+    "ar": "سيدي بو وثماني",
+    "original": "Sidi Bou Othmane"
+  },
+  {
+    "id": "2593",
+    "ar": "سيدي بوزيد",
+    "original": "Sidi Bouzid"
+  },
+  {
+    "id": "2227",
+    "ar": "سيدي بوقنادل",
+    "original": "Sidi Bouknadel"
+  },
+  {
+    "id": "3019",
+    "ar": "سيدي بولفدايل",
+    "original": "Sidi Boulfdail"
+  },
+  {
+    "id": "2040",
+    "ar": "سيدي بيبي",
+    "original": "Sidi Bibi"
+  },
+  {
+    "id": "3919",
+    "ar": "سيدي تايبي",
+    "original": "Sidi Taibi"
+  },
+  {
+    "id": "3541",
+    "ar": "سيدي جابير",
+    "original": "Sidi Jaber"
+  },
+  {
+    "id": "2299",
+    "ar": "سيدي حرازم",
+    "original": "Sidi Harazem"
+  },
+  {
+    "id": "2172",
+    "ar": "سيدي رحال",
+    "original": "Sidi Rehal"
+  },
+  {
+    "id": "4392",
+    "ar": "سيدي ريدوان",
+    "original": "Sidi Redouan"
+  },
+  {
+    "id": "2449",
+    "ar": "سيدي زويني",
+    "original": "Sidi Zouine"
+  },
+  {
+    "id": "3877",
+    "ar": "سيدي سليمان",
+    "original": "Sidi Sliman"
+  },
+  {
+    "id": "3931",
+    "ar": "سيدي علال البحراوي",
+    "original": "Sidi Allal Bahraoui"
+  },
+  {
+    "id": "3871",
+    "ar": "سيدي قاسم",
+    "original": "Sidi Kacem"
+  },
+  {
+    "id": "3757",
+    "ar": "سيدي كاوكي",
+    "original": "Sidi Kaouki"
+  },
+  {
+    "id": "4271",
+    "ar": "سيدي هاجاج تيت مليل",
+    "original": "sidi hajaj tit mlil"
+  },
+  {
+    "id": "4277",
+    "ar": "سيدي هاجاج سيتتات",
+    "original": "sidi hajaj settat"
+  },
+  {
+    "id": "3043",
+    "ar": "سيدي واگاگي",
+    "original": "Sidi Ouagague"
+  },
+  {
+    "id": "2263",
+    "ar": "سيدي ياهيا زاير",
+    "original": "Sidi Yahya Zaer"
+  },
+  {
+    "id": "3883",
+    "ar": "سيدي يحيى الغرب",
+    "original": "Sidi Yahya Ghareb"
+  },
+  {
+    "id": "2617",
+    "ar": "شاطئ مازاغان",
+    "original": "Mazagan Beach"
+  },
+  {
+    "id": "2791",
+    "ar": "شفشاون",
+    "original": "Chefchaouen"
+  },
+  {
+    "id": "1902",
+    "ar": "شويتير",
+    "original": "Chouiter"
+  },
+  {
+    "id": "2485",
+    "ar": "شيشاوة",
+    "original": "Chichaoua"
+  },
+  {
+    "id": "2311",
+    "ar": "صفرو",
+    "original": "Sefrou"
+  },
+  {
+    "id": "3913",
+    "ar": "طاطا",
+    "original": "TATA"
+  },
+  {
+    "id": "3139",
+    "ar": "طانطان",
+    "original": "Tan Tan"
+  },
+  {
+    "id": "3127",
+    "ar": "طرفاية",
+    "original": "Tarfaya"
+  },
+  {
+    "id": "2257",
+    "ar": "عين اتيق",
+    "original": "Ain Atiq"
+  },
+  {
+    "id": "2239",
+    "ar": "عين العودة",
+    "original": "Ain El Aouda"
+  },
+  {
+    "id": "2293",
+    "ar": "عين اللاه",
+    "original": "Ain Allah"
+  },
+  {
+    "id": "2317",
+    "ar": "عين بيدا",
+    "original": "Ain Beda"
+  },
+  {
+    "id": "4476",
+    "ar": "عين بيدا",
+    "original": "Ain beida"
+  },
+  {
+    "id": "2395",
+    "ar": "عين تاوجطات",
+    "original": "Ain Taoujdate"
+  },
+  {
+    "id": "2190",
+    "ar": "عين حرودة",
+    "original": "Ain Harouda"
+  },
+  {
+    "id": "2779",
+    "ar": "عين دوريج",
+    "original": "Ain Dorij"
+  },
+  {
+    "id": "4386",
+    "ar": "عين ديفالي",
+    "original": "Ain Defali"
+  },
+  {
+    "id": "2281",
+    "ar": "عين شقيف",
+    "original": "Ain Chqef"
+  },
+  {
+    "id": "2347",
+    "ar": "عين شيگگاگ",
+    "original": "Ain Cheggag"
+  },
+  {
+    "id": "3751",
+    "ar": "غازوا",
+    "original": "Ghazoua"
+  },
+  {
+    "id": "3553",
+    "ar": "فارياتا",
+    "original": "Faryata"
+  },
+  {
+    "id": "3859",
+    "ar": "فجيج",
+    "original": "Figuig"
+  },
+  {
+    "id": "3571",
+    "ar": "فم ال انسار",
+    "original": "Foum El Ansar"
+  },
+  {
+    "id": "3565",
+    "ar": "فم جمعة",
+    "original": "foum jemaa"
+  },
+  {
+    "id": "3559",
+    "ar": "فم ودي",
+    "original": "Foum Oudi"
+  },
+  {
+    "id": "4320",
+    "ar": "فيرياتا",
+    "original": "Feryata"
+  },
+  {
+    "id": "2443",
+    "ar": "قرية با محمد",
+    "original": "Kariat Ba Mohamed"
+  },
+  {
+    "id": "3577",
+    "ar": "قصبة تادلة",
+    "original": "Kasba Tadla"
+  },
+  {
+    "id": "2461",
+    "ar": "قلعة السراغنة",
+    "original": "Kelaa Des Sraghna"
+  },
+  {
+    "id": "3583",
+    "ar": "قلعة مكونة",
+    "original": "Kelaat Mgouna"
+  },
+  {
+    "id": "2821",
+    "ar": "كا اسراسس",
+    "original": "Kaa asrass"
+  },
+  {
+    "id": "4452",
+    "ar": "كابو نيغرو",
+    "original": "Cabo Negro"
+  },
+  {
+    "id": "3595",
+    "ar": "كاهف نسسور",
+    "original": "kahf nssour"
+  },
+  {
+    "id": "3151",
+    "ar": "كلميم",
+    "original": "Guelmim"
+  },
+  {
+    "id": "3271",
+    "ar": "لاجانا",
+    "original": "Laajana"
+  },
+  {
+    "id": "3073",
+    "ar": "لاخسساس",
+    "original": "Lakhssas"
+  },
+  {
+    "id": "4458",
+    "ar": "لامجارا",
+    "original": "Lamjaara"
+  },
+  {
+    "id": "4494",
+    "ar": "لاوامرا",
+    "original": "Laouamra"
+  },
+  {
+    "id": "3295",
+    "ar": "لاگفاف",
+    "original": "Lagfaf"
+  },
+  {
+    "id": "1932",
+    "ar": "لاگواسسيم",
+    "original": "Lagouassem"
+  },
+  {
+    "id": "1920",
+    "ar": "لاگيرب",
+    "original": "Laagerb"
+  },
+  {
+    "id": "4257",
+    "ar": "لبروج",
+    "original": "lbrouj"
+  },
+  {
+    "id": "2581",
+    "ar": "للا تاكيركوست",
+    "original": "Lalla Takerkoust"
+  },
+  {
+    "id": "3685",
+    "ar": "للا فاتنا سافي",
+    "original": "Lalla Fatna Safi"
+  },
+  {
+    "id": "3895",
+    "ar": "للا ميمونا",
+    "original": "Lala Mimouna"
+  },
+  {
+    "id": "4332",
+    "ar": "لهومير(تارودانت)",
+    "original": "Lhoumer (taroudant)"
+  },
+  {
+    "id": "1908",
+    "ar": "لودايا",
+    "original": "Loudaya"
+  },
+  {
+    "id": "4446",
+    "ar": "مادينا الجديدة",
+    "original": "Madina Jadida"
+  },
+  {
+    "id": "2022",
+    "ar": "ماسة",
+    "original": "Massa"
+  },
+  {
+    "id": "4464",
+    "ar": "ماسسمودا",
+    "original": "Massmouda"
+  },
+  {
+    "id": "3889",
+    "ar": "ماشرو بيلكسيري",
+    "original": "Machroo Belksiri"
+  },
+  {
+    "id": "2166",
+    "ar": "مدينة الرحمة",
+    "original": "Errahma Ville"
+  },
+  {
+    "id": "2178",
+    "ar": "مديونة",
+    "original": "Mediona"
+  },
+  {
+    "id": "2683",
+    "ar": "مرتيل",
+    "original": "Martil"
+  },
+  {
+    "id": "3607",
+    "ar": "مرزوكة",
+    "original": "Merzouga"
+  },
+  {
+    "id": "3613",
+    "ar": "مريرت",
+    "original": "Mrirt"
+  },
+  {
+    "id": "2563",
+    "ar": "مزوديا",
+    "original": "Mzoudia"
+  },
+  {
+    "id": "4566",
+    "ar": "مسساوير راسسو",
+    "original": "Mssawer Rasso"
+  },
+  {
+    "id": "3301",
+    "ar": "مغيلا",
+    "original": "Mghila"
+  },
+  {
+    "id": "3601",
+    "ar": "مفاسسيس",
+    "original": "Mfassis"
+  },
+  {
+    "id": "2389",
+    "ar": "مهايا",
+    "original": "Mhaya"
+  },
+  {
+    "id": "4488",
+    "ar": "موقريسست",
+    "original": "Moqrisst"
+  },
+  {
+    "id": "3679",
+    "ar": "مول ال بيرگي",
+    "original": "Moul El Bergui"
+  },
+  {
+    "id": "2383",
+    "ar": "مولاي إدريس زرهون",
+    "original": "Moulay Idriss Zerhoun"
+  },
+  {
+    "id": "2599",
+    "ar": "مولاي ابيللاه امغار",
+    "original": "Moulay Abellah Amghar"
+  },
+  {
+    "id": "4296",
+    "ar": "مولاي بواززا",
+    "original": "Moulay bouaazza"
+  },
+  {
+    "id": "3835",
+    "ar": "مولاي بوسيلهام",
+    "original": "Moulay bouselham"
+  },
+  {
+    "id": "2287",
+    "ar": "مولاي ياكوب",
+    "original": "Moulay Yaacoub"
+  },
+  {
+    "id": "2521",
+    "ar": "ميججات",
+    "original": "Mejjat"
+  },
+  {
+    "id": "3619",
+    "ar": "ميدلت",
+    "original": "Midelt"
+  },
+  {
+    "id": "3055",
+    "ar": "ميرلفت",
+    "original": "Mirleft"
+  },
+  {
+    "id": "2749",
+    "ar": "ميزكيتا دي لاوامرا",
+    "original": "Mezquita de Laouamra"
+  },
+  {
+    "id": "4398",
+    "ar": "ميسمودا",
+    "original": "Mesmouda"
+  },
+  {
+    "id": "3625",
+    "ar": "ميسور",
+    "original": "Missour"
+  },
+  {
+    "id": "2905",
+    "ar": "ميضار",
+    "original": "Midar"
+  },
+  {
+    "id": "3955",
+    "ar": "نقوب",
+    "original": "Nkoub"
+  },
+  {
+    "id": "3481",
+    "ar": "هاتتاني",
+    "original": "Hattane"
+  },
+  {
+    "id": "2611",
+    "ar": "هاوزيا",
+    "original": "Haouzia"
+  },
+  {
+    "id": "4265",
+    "ar": "هراويني",
+    "original": "hraouine"
+  },
+  {
+    "id": "2058",
+    "ar": "هوارا",
+    "original": "Houara"
+  },
+  {
+    "id": "2419",
+    "ar": "وادي أمليل",
+    "original": "Oued Amlil"
+  },
+  {
+    "id": "3631",
+    "ar": "وادي زم",
+    "original": "Oued Zem"
+  },
+  {
+    "id": "2833",
+    "ar": "وادي لو",
+    "original": "Oued laou"
+  },
+  {
+    "id": "3637",
+    "ar": "واومانا",
+    "original": "Ouaoumana"
+  },
+  {
+    "id": "3643",
+    "ar": "واويزيغت",
+    "original": "Ouaouizeght"
+  },
+  {
+    "id": "4007",
+    "ar": "وتات ال هاج",
+    "original": "Outat el haj"
+  },
+  {
+    "id": "3691",
+    "ar": "ورزازات",
+    "original": "Ouarzazate"
+  },
+  {
+    "id": "2755",
+    "ar": "وزان",
+    "original": "Ouezzane"
+  },
+  {
+    "id": "3313",
+    "ar": "ولد زيدوه",
+    "original": "Ould Zidouh"
+  },
+  {
+    "id": "2773",
+    "ar": "وننانا",
+    "original": "Ounnana"
+  },
+  {
+    "id": "3031",
+    "ar": "ويججاني",
+    "original": "Ouijjane"
+  },
+  {
+    "id": "3739",
+    "ar": "ويد ال ماليه",
+    "original": "Oued El Maleh"
+  },
+  {
+    "id": "1974",
+    "ar": "ويرگاني",
+    "original": "Ouirgane"
+  },
+  {
+    "id": "4290",
+    "ar": "ويسللان",
+    "original": "Ouisllan"
+  },
+  {
+    "id": "4239",
+    "ar": "ويلميسس",
+    "original": "Ouelmess"
+  },
+  {
+    "id": "1968",
+    "ar": "يجوكاك",
+    "original": "Ijoukak"
+  },
+  {
+    "id": "3355",
+    "ar": "يخوريبا",
+    "original": "Ikhoureba"
+  },
+  {
+    "id": "3067",
+    "ar": "يداوسملال",
+    "original": "Idaousmlal"
+  },
+  {
+    "id": "2881",
+    "ar": "يسساگين",
+    "original": "Issaguen"
+  },
+  {
+    "id": "3235",
+    "ar": "يغريم لالام",
+    "original": "Ighrem Laalam"
+  },
+  {
+    "id": "3727",
+    "ar": "يمغارني",
+    "original": "imgharne"
+  },
+  {
+    "id": "4368",
+    "ar": "يموززير(مرموشا)",
+    "original": "Imouzzer (MRMOUCHA)"
+  },
+  {
+    "id": "4554",
+    "ar": "يمي مقورن",
+    "original": "IMI mqourn"
+  },
+  {
+    "id": "4548",
+    "ar": "ينشادين",
+    "original": "Inchaden"
+  },
+  {
+    "id": "3589",
+    "ar": "گولميما ريگيونس يرراشيديا",
+    "original": "Goulmima regions errachidia"
+  },
+  {
+    "id": "4434",
+    "ar": "گيزانيا",
+    "original": "Gezania"
+  }
+]
